@@ -1,4 +1,7 @@
-## Hi there 👋, I'm [ABDELMAJID ID ALI!](https://github.com/ixiDev) 
+## Hi 👋, I'm [ABDELMAJID ID ALI!](https://github.com/ixiDev)
+### Mobile Android Engineer & Embedded Systems lover
+ Currently I'm working at Adria B&T as Mobile Software Engineer
+ - 📍 Morocco 🇲🇦 Casablanca
 
 **Reach out to me at...**
 
