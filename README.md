@@ -3,6 +3,22 @@
  Currently I'm working at Adria B&T as Mobile Software Engineer
  - 📍 Morocco 🇲🇦 Casablanca
 
+### More about me
+```kotlin
+  val abdelmajid = engineer {
+        about {
+            name = "Abdelmajid ID ALI"
+            company = Adria
+            role = MobileEngineer
+        }
+        tech("Kotlin", "Java", "Android", "Embedded Systems", "Software design")
+        links {
+            linkedin = "@abdelmajid-idali"
+            github = "@ixidev"
+        }
+        nickname = "ixi"
+    }
+```
 **Reach out to me at...**
 
 <a href="https://www.linkedin.com/in/abdelmajid-idali/">
